@@ -16,7 +16,8 @@
 		"noUnusedLocals": true,
 		"strict": true,
 		"jsx": "react-jsx",
-		"allowSyntheticDefaultImports": true
+		"allowSyntheticDefaultImports": true,
+		"moduleResolution": "node"
 	},
 	"include": [
 		"src"
